@@ -10,7 +10,7 @@ Add fault lines to illustrate the relationship between the location and frequenc
 ![EarthquakeMap.png](EarthquakeMap.png)
 
 # Resources
-# Data Sources:
+## Data Sources:
 Real-time earthquake data from https://www.usgs.gov/natural-hazards/earthquake-hazards/data-tools
 Tectonic plate data from https://github.com/fraxen/tectonicplates
 Software: JavaScript 1.7, Virtual Studio Code 1.48.2
