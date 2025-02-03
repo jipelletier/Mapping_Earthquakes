@@ -6,3 +6,5 @@ Visually represent each earthquake by a circle whose size and color is based on 
 Create popup markers for each earthquake that, when clicked, show the magnitude and location
 Plot the data on a Mapbox map through an API request
 Add fault lines to illustrate the relationship between the location and frequency of seismic activity and tectonic plates
+
+![EarthquakeMap.png](EarthquakeMap.png)
