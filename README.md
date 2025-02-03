@@ -8,3 +8,9 @@ Plot the data on a Mapbox map through an API request
 Add fault lines to illustrate the relationship between the location and frequency of seismic activity and tectonic plates
 
 ![EarthquakeMap.png](EarthquakeMap.png)
+
+# Resources
+# Data Sources:
+Real-time earthquake data from https://www.usgs.gov/natural-hazards/earthquake-hazards/data-tools
+Tectonic plate data from https://github.com/fraxen/tectonicplates
+Software: JavaScript 1.7, Virtual Studio Code 1.48.2
